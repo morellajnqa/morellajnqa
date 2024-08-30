@@ -24,7 +24,7 @@ Docente de profesión y tecnológica de corazón, en transición laboral a QA En
 ### :hammer_and_wrench: Lenguajes y herramientas :
 
 <div id="header" align="left">
-    <img decoding="async" src="https://github.com/morellajnqa/morellajnqa/blob/main/android.jpg"/>
+<img decoding="async" src="https://github.com/morellajnqa/morellajnqa/blob/main/android.jpg"/>
   </a>
  <img decoding="async" src="https://github.com/morellajnqa/morellajnqa/blob/main/google.jpg"/>
   </a>
@@ -43,9 +43,15 @@ Docente de profesión y tecnológica de corazón, en transición laboral a QA En
 <img decoding="async" src="https://github.com/morellajnqa/morellajnqa/blob/main/moddle.jpg"/>
   </a>
 <img decoding="async" src="https://github.com/morellajnqa/morellajnqa/blob/main/gimp.jpg"/>
-  </a>
-  
+  </a> 
 </div>
+
+---
+### :books: Repositorio:
+
+:pushpin: [Pruebas para una aplicación web de compra de alimentos](https://github.com/morellajnqa/qa-project-Urban-Grocers-app-es/)
+
+:pushpin: [Pruebas para una aplicación web de transporte](https://github.com/morellajnqa/qa-project-Urban-Routes-es)
 
 <!--
 **morellajnqa/morellajnqa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
