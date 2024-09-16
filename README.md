@@ -53,7 +53,7 @@ Como QA Engineer tengo una sólida formación en pruebas de software y un gran i
 
 :pushpin: [Pruebas para una aplicación web de transporte](https://github.com/morellajnqa/qa-project-Urban-Routes-es)
 
-:pushpin: [Hackathon QA TripleTen] (https://github.com/morellajnqa/HackathonTT-QA-2024-T5)
+:pushpin: [Hackathon QA TripleTen](https://github.com/morellajnqa/HackathonTT-QA-2024-T5)
 <!--
 **morellajnqa/morellajnqa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
