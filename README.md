@@ -15,7 +15,7 @@ Soy una mujer de mente creativa e inquieta, disfruto innovar aportando un poco d
 
 Como QA Engineer tengo una sólida formación en pruebas de software y un gran interés en asegurar la calidad de productos tecnológicos. Tengo experiencia en la creación y ejecución de casos de prueba, así como en la identificación y documentación de defectos. Apasionada por flujos de trabajo ágiles eficientes y herramientas modernas de control de calidad como JIRA, Postman, API y SQL. :lady_beetle:
 
-:dart: Recientemente culmine un bootcamp en QA Engineer, lo que puedo aportar a una empresa o proyecto como QA, es que me destaco por mi atención al detalle y una pasión por encontrar errores para prevenir problemas, motivado por entregar productos de alta calidad que superan las expectativas del usuario :nerd_face:
+:dart: Puedo aportar positivamente a una empresa o a un proyecto como QA, ya que me destaco por mi atención al detalle y una pasión por encontrar errores para prevenir problemas, motivado por entregar productos de alta calidad que superan las expectativas del usuario :nerd_face:
 
 :e-mail: ¿Quieres que trabajemos en algún proyecto juntos? [![](https://github.com/morellajnqa/morellajnqa/blob/main/LinkedIn-0077B5.svg)](https://www.linkedin.com/in/morella-jimenez-qa/)
 
@@ -53,6 +53,7 @@ Como QA Engineer tengo una sólida formación en pruebas de software y un gran i
 
 :pushpin: [Pruebas para una aplicación web de transporte](https://github.com/morellajnqa/qa-project-Urban-Routes-es)
 
+:pushpin: [Hackathon QA TripleTen] (https://github.com/morellajnqa/HackathonTT-QA-2024-T5)
 <!--
 **morellajnqa/morellajnqa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
