@@ -17,8 +17,8 @@ Como QA Engineer tengo una sólida formación en pruebas de software y un gran i
 
 :dart: Puedo aportar valor a tu equipo como QA, ya que me apasiona encontrar y corregir errores para garantizar la entrega de productos de alta calidad que superen las expectativas del usuario. Mi enfoque en la mejora continua me permite optimizar procesos, reducir costos y asegurar el cumplimiento de estándares y requisitos, contribuyendo directamente al éxito de tu proyecto :nerd_face:
 
-:e-mail: ¿Quieres que trabajemos en algún proyecto juntos? [![](https://github.com/morellajnqa/morellajnqa/blob/main/LinkedIn-0077B5.svg)](https://www.linkedin.com/in/morella-jimenez-qa/)
-estoy segura de que juntos podremos lograr la mejor experiencia a tu usuario.
+:e-mail: ¿Quieres que trabajemos en algún proyecto? [![](https://github.com/morellajnqa/morellajnqa/blob/main/LinkedIn-0077B5.svg)](https://www.linkedin.com/in/morella-jimenez-qa/)
+estoy segura de que juntos podremos lograr la mejor experiencia a tu usuario garantizando la calidad de tu producto.
 ---
 
 ### :hammer_and_wrench: Lenguajes y herramientas :
