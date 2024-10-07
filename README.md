@@ -15,10 +15,10 @@ Soy una mujer de mente creativa e inquieta, disfruto innovar aportando un poco d
 
 Como QA Engineer tengo una sólida formación en pruebas de software y un gran interés en asegurar la calidad de productos tecnológicos. Tengo experiencia en la creación y ejecución de casos de prueba, así como en la identificación y documentación de defectos. Apasionada por flujos de trabajo ágiles eficientes y herramientas modernas de control de calidad como JIRA, Postman, API y SQL. :lady_beetle:
 
-:dart: Puedo aportar positivamente a una empresa o a un proyecto como QA, ya que me destaco por mi atención al detalle y una pasión por encontrar errores para prevenir problemas, motivado por entregar productos de alta calidad que superan las expectativas del usuario :nerd_face:
+:dart: Puedo aportar valor a tu equipo como QA, ya que me apasiona encontrar y corregir errores para garantizar la entrega de productos de alta calidad que superen las expectativas del usuario. Mi enfoque en la mejora continua me permite optimizar procesos, reducir costos y asegurar el cumplimiento de estándares y requisitos, contribuyendo directamente al éxito de tu proyecto :nerd_face:
 
 :e-mail: ¿Quieres que trabajemos en algún proyecto juntos? [![](https://github.com/morellajnqa/morellajnqa/blob/main/LinkedIn-0077B5.svg)](https://www.linkedin.com/in/morella-jimenez-qa/)
-
+estoy segura de que juntos podremos lograr la mejor experiencia a tu usuario.
 ---
 
 ### :hammer_and_wrench: Lenguajes y herramientas :
@@ -48,12 +48,15 @@ Como QA Engineer tengo una sólida formación en pruebas de software y un gran i
 
 ---
 ### :books: Repositorio:
+📌 [Pruebas para aplicación web de gestión de compras medicas](https://github.com/morellajnqa/Pruebas-App-Web-Gestion-de-compras-medicas)
+
+:pushpin: [Hackathon QA TripleTen](https://github.com/morellajnqa/HackathonTT-QA-2024-T5)
 
 :pushpin: [Pruebas para una aplicación web de compra de alimentos](https://github.com/morellajnqa/qa-project-Urban-Grocers-app-es/)
 
 :pushpin: [Pruebas para una aplicación web de transporte](https://github.com/morellajnqa/qa-project-Urban-Routes-es)
 
-:pushpin: [Hackathon QA TripleTen](https://github.com/morellajnqa/HackathonTT-QA-2024-T5)
+
 <!--
 **morellajnqa/morellajnqa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
